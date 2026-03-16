@@ -2,36 +2,39 @@
 <h3 align="center">Engineering Student | C++ Programmer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="450">
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Engineering student
-- 💻 C++ programmer
-- 🧠 Interested in **Algorithms, Data Structures, and Systems Programming**
-- 🚀 Currently learning **Advanced C++ and Problem Solving**
+- 🎓 Engineering Student
+- 💻 Passionate about **C++ Programming**
+- 📚 Interested in **Algorithms & Data Structures**
+- 🚀 Improving my **problem solving and software development skills**
 
 ---
 
 ### 🛠️ Languages & Tools
 
-- C++
-- Git & GitHub
-- Linux
-- Data Structures
-- Algorithms
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelrahmangaber852-dot&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 🌐 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
-- Twitter: https://twitter.com/YOUR_LINK
+<p>
+<a href="https://www.linkedin.com/in/abdelrahman-gaber-812517398">
+<img src="https://img.shields.io/badge/LinkedIn-Abdelrahman%20Gaber-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
