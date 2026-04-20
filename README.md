@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 Engineering Student
-- 💻 Passionate about **C++ Programming**
+- 💻 Passionate about **C++ and C Programming**
 - 📚 Interested in **Algorithms & Data Structures**
 - 🚀 Improving my **problem solving and software development skills**
 
