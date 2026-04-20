@@ -1,5 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Abdelrahman Gaber</h1>
-<h3 align="center">Engineering Student | C++ Programmer</h3>
+<h3 align="center">Engineering Student
+  | C and C++ Programmer</h3>
 
 <p align="center">
   <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="450">
